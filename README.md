@@ -1,2 +1,2 @@
 # ATobs.github.io
-Astronomical transients observation log (update everyday)
+Astronomical transients observation log (updated daily)
